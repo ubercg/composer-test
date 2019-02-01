@@ -1,0 +1,6 @@
+{
+    "name": "ubercg/composer-test",
+    "description": "pruebas de uso dependecias con composer",
+    "minimum-stability": "stable",
+    "require": {}
+}
